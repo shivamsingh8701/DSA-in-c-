@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -22,5 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
