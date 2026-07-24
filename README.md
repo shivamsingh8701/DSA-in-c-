@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
