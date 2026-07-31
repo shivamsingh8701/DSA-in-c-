@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
