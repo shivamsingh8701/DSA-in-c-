@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -103,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
