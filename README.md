@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0075-sort-colors) |
@@ -132,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
